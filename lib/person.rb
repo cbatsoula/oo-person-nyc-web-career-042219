@@ -24,6 +24,10 @@ class Person
     @hygiene = 0 if hygiene_level < 0
   end
    
+   def happy?
+     @happiness > 7
+   end
+   
  end
   
 
