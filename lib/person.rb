@@ -35,8 +35,11 @@ class Person
    def get_paid(salary)
      if @bank_account += 100
        return "all about the benjamins"
+     end
      
-   end
+  def take_bath
+    
+  end
  end
  end
   
