@@ -28,6 +28,9 @@ class Person
      @happiness > 7
    end
    
+   def clean?
+     @hygiene > 7 
+   end
  end
   
 
